@@ -1,7 +1,7 @@
 # Apna-Product ~ Bugdet-tracker
 Budget Tracker app with React and Speechly!
 
-![alt text](https://i.ibb.co/3BscyCN/expense-tracker.png)
+![image](https://user-images.githubusercontent.com/75212002/208305764-9dad9df3-f3b5-4081-8a98-e0ceef261612.png)
 
 The budget tracker can be further developed to include more features and capabilities. For example, it could be enhanced with income and expense tracking and forecasting, as well as a more comprehensive budgeting system. We are also planning to add authentication system in our website. 
 Additionally, the budget tracker could be incorporated into a larger personal finance application, allowing users to manage all of their finances in one place. Finally, the budget tracker could be connected to other financial services, such as banks and investment accounts, to provide a more integrated financial management experience.
