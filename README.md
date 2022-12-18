@@ -1,10 +1,11 @@
-# expense-tracker
-Expense Tracker app with React and Speechly!
+# Apna-Product ~ Bugdet-tracker
+Budget Tracker app with React and Speechly!
 
 ![alt text](https://i.ibb.co/3BscyCN/expense-tracker.png)
 
-This is Front End React app. In this app you can add Incomes and Expenses so you can track them. The best thing in this app is that you can add income or expense by your voice!
- Yes! I have used 'Speechly' to allow that to user!
+The budget tracker can be further developed to include more features and capabilities. For example, it could be enhanced with income and expense tracking and forecasting, as well as a more comprehensive budgeting system. We are also planning to add authentication system in our website. 
+Additionally, the budget tracker could be incorporated into a larger personal finance application, allowing users to manage all of their finances in one place. Finally, the budget tracker could be connected to other financial services, such as banks and investment accounts, to provide a more integrated financial management experience.
+
  
  ## This is the code for speechly to work how it is susposed to!
  ```javascript
@@ -55,6 +56,3 @@ category_expense = [
     - chart.js(for creating charts)
     - uuid(for creating unique ids)
     - material-ui(for styling)
-    
-  
-# Thank you!
